@@ -4,7 +4,7 @@
 Nextcloud |version| user manual introduction
 ============================================
 
-**Welcome to Nextcloud: A safe home for all your data.**
+**Welcome to Nextcloud: An safe home for all your data.**
 
 Nextcloud is open source file sync and share software for everyone from
 individuals operating the free Nextcloud Server in the privacy of their own
